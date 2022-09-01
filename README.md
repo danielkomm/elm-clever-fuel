@@ -1,4 +1,4 @@
-# Elm-Abschlussprojekt
+# elm-clever-fuel
 
 Welcome to my gas stations price comparator "CLEVER-FUEL" built with Elm!  
 I'm using the  free plans from the [Tankkönig-Api](https://creativecommons.tankerkoenig.de/?page=info) and [PTV-Developer-Api](https://developer.myptv.com/Documentation/Geocoding%20API/QuickStart.htm) 
